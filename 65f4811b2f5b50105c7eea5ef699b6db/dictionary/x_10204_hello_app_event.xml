@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event" max_length="40" name="x_10204_hello_app_event" sizeclass="1328" type="collection">
+        <element attributes="encode_utf8=false" label="Building" max_length="32" name="building" reference="x_10204_hello_app_building" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Data" max_length="1000" name="data" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Device" max_length="40" name="device" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Event" max_length="40" name="event" type="string"/>
+        <index name="index">
+            <element name="building"/>
+        </index>
+    </element>
+</database>

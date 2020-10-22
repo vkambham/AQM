@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="interaction_queue" label="Interaction queue" language="en" table="chat_survey">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>interaction_queue</element>
+            <help/>
+            <hint>Field that stores associated Interaction Queue</hint>
+            <label>Interaction queue</label>
+            <language>en</language>
+            <name>chat_survey</name>
+            <plural>Interaction queues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-03 00:05:27</sys_created_on>
+            <sys_id>47d9f8762faf10105c7eea5ef699b6d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Interaction queue</sys_name>
+            <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+            <sys_update_name>sys_documentation_chat_survey_interaction_queue_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-03 00:05:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

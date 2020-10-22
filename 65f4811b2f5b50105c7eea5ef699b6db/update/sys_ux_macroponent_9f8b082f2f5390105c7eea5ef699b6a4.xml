@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckfebddbioaaaaaaiiddhhhccdtzkddswt",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "Container 1",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : "neutral-1",
+    "border" : true,
+    "canCollapse" : true,
+    "collapsed" : false
+  },
+  "slot" : "ckfeb3bip00093h72at2vl6ec",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "ckfebddrriiaaaaaadddhhhccxjphbbksjj",
+      "elementLabel" : "Heading",
+      "propertyValues" : {
+        "label" : "The quick brown fox jumps over the lazy dog",
+        "variant" : "header-primary",
+        "wontWrap" : false,
+        "hasNoMargin" : false
+      },
+      "slot" : "ckfeb3rr8000e3h727z4yh54h",
+      "definition" : {
+        "id" : "1f6e0643eca7a637e36bd7833549ec9e",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    }, {
+      "elementId" : "ckfebeeeesxaaaaaaiddhhhccbbiiwkiigcb",
+      "elementLabel" : "My Component",
+      "propertyValues" : { },
+      "slot" : "ckfeb44sx000j3h72p4f99261",
+      "definition" : {
+        "id" : "7153f60e010da97c0f7e5abaf5777d9c",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ],
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"column","id":"ckfeb3rr8000f3h72dqn8vv46","rows":[{"type":"row","id":"ckfeb3rrb000g3h72sbjvprc5","slotName":"ckfeb3rr8000e3h727z4yh54h"},{"id":"ckfeb44sx000k3h72raj0ak27","slotName":"ckfeb44sx000j3h72p4f99261","type":"row"}],"size":"12"},
+        "items" : null,
+        "rules" : null,
+        "styles" : null
+      }
+    }
+  }
+}, {
+  "elementId" : "ckfebiimdfaaaaaamddhhhccfefeeccmbbk",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "Container 2",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : "",
+    "border" : true,
+    "canCollapse" : true,
+    "collapsed" : false
+  },
+  "slot" : "ckfeb8mdg000n3h72vym429bu",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "ckfebjjeeeeoaaaaaaqddhhhccccaatoiiiieeee",
+      "elementLabel" : "List",
+      "propertyValues" : {
+        "listTitle" : "All Active Tasks",
+        "table" : "task",
+        "query" : "active=true",
+        "columns" : "",
+        "limit" : "5",
+        "maxColumns" : "5",
+        "page" : "1",
+        "hideHeader" : false,
+        "hideTitle" : false,
+        "hideTitleRowCount" : false,
+        "hideRefreshButton" : false,
+        "hideLastRefreshedText" : false,
+        "hideLinks" : false,
+        "hideViewAll" : false,
+        "hideHighlightedValues" : false,
+        "hideCellFilter" : true,
+        "hideCheckboxHover" : true,
+        "hideColumnFiltering" : true,
+        "hideColumnGrouping" : true,
+        "hideColumnSorting" : false,
+        "hideFilterPanel" : false,
+        "hideFirstPage" : false,
+        "hideLastPage" : false,
+        "hideLimitSelector" : false,
+        "hideMenuButton" : true,
+        "hideMultiEdit" : false,
+        "hideDeclarativeActions" : false,
+        "hideNextPage" : false,
+        "hidePages" : false,
+        "hidePagination" : true,
+        "hidePanel" : true,
+        "hidePanelAdvanced" : false,
+        "hidePanelConditionDelete" : false,
+        "hidePanelFooter" : false,
+        "hidePanelRestore" : false,
+        "hidePreviousPage" : false,
+        "hideQuickEdit" : true,
+        "hideRange" : false,
+        "hideRowCount" : false,
+        "hideRowSelector" : false,
+        "hideSelectAll" : true,
+        "hideEmptyStateImage" : false,
+        "hideDBViews" : false,
+        "hideUnnecessaryRowSelectors" : true
+      },
+      "slot" : "ckfeb944p000r3h727bxyqhcc",
+      "definition" : {
+        "id" : "2b1c080881e05dc63b917044290b233f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ],
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ckfeb944p000r3h727bxyqhcc","size":"12","rows":[],"id":"ckfeb944p000t3h720j99ks3q"}],"id":"ckfeb944p000s3h723aywaq3d"},
+        "items" : null,
+        "rules" : null,
+        "styles" : null
+      }
+    }
+  }
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"column","id":"ckfeb3bip000a3h72i9zptf1q","rows":[{"type":"row","id":"ckfeb3bip000b3h72skxbqged","slotName":"ckfeb3bip00093h72at2vl6ec"},{"id":"ckfeb8mdg000o3h72n7uzx649","slotName":"ckfeb8mdg000n3h72vym429bu","type":"row"}],"size":"12"},
+    "items" : null,
+    "rules" : null,
+    "styles" : null
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>firstpage</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-22 18:22:52</sys_created_on>
+        <sys_id>9f8b082f2f5390105c7eea5ef699b6a4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>firstpage</sys_name>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_ux_macroponent_9f8b082f2f5390105c7eea5ef699b6a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:47:42</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

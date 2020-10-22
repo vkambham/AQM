@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script/>
+        <source_script_name>hello-app</source_script_name>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>venkatesh</sys_created_by>
+        <sys_created_on>2020-09-22 18:08:53</sys_created_on>
+        <sys_id>3407a4d2777c7a639140a8da277da4d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x-10204-hello-app</sys_name>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_ux_lib_component_3407a4d2777c7a639140a8da277da4d3</sys_update_name>
+        <sys_updated_by>venkatesh</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:08:53</sys_updated_on>
+        <tag>x-10204-hello-app</tag>
+    </sys_ux_lib_component>
+</record_update>

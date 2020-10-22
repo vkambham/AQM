@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element_m2m_role">
+    <sys_ux_page_element_m2m_role action="INSERT_OR_UPDATE">
+        <element display_value="Analytics Center Button">154b402f2f5390105c7eea5ef699b6c0</element>
+        <group/>
+        <role display_value="pa_viewer" name="pa_viewer">a90d30b3bf101100b96dac808c073950</role>
+        <sys_class_name>sys_ux_page_element_m2m_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-22 18:21:39</sys_created_on>
+        <sys_id>914b402f2f5390105c7eea5ef699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_ux_page_element_m2m_role_914b402f2f5390105c7eea5ef699b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:21:39</sys_updated_on>
+    </sys_ux_page_element_m2m_role>
+</record_update>

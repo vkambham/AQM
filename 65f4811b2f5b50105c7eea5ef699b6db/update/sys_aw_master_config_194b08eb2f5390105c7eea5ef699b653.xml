@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="hello-app">9d4b08eb2f5390105c7eea5ef699b653</compiled_page_registry>
+        <description>test app for new UI</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="hello-app Search Context Config">994b08eb2f5390105c7eea5ef699b651</global_search_data>
+        <hide_search_results_count>false</hide_search_results_count>
+        <name>hello-app</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-22 18:21:38</sys_created_on>
+        <sys_id>194b08eb2f5390105c7eea5ef699b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hello-app</sys_name>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_aw_master_config_194b08eb2f5390105c7eea5ef699b653</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:21:38</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>hello_app</workspace_url>
+    </sys_aw_master_config>
+</record_update>

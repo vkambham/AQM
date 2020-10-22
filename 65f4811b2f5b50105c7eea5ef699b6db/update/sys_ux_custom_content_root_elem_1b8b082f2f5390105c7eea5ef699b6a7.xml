@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_custom_content_root_elem">
+    <sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="hello-app">9d4b08eb2f5390105c7eea5ef699b653</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent display_value="firstpage">9f8b082f2f5390105c7eea5ef699b6a4</macroponent>
+        <macroponent_config>{
+  "label" : ""
+}</macroponent_config>
+        <name>firstpage</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">4a4b802f2f5390105c7eea5ef699b65c</placeholder>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-22 18:22:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b8b082f2f5390105c7eea5ef699b6a7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>firstpage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_1b8b082f2f5390105c7eea5ef699b6a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:23:20</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="delete_multiple" query="document_key=1b8b082f2f5390105c7eea5ef699b6a7"/>
+</record_update>

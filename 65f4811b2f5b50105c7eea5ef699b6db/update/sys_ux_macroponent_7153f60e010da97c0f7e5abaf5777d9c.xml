@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750,c1251a89db4c1010793ddf6b5e96199c</associated_types>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <data/>
+        <events/>
+        <extends/>
+        <interactions/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>My Component</name>
+        <props>[]</props>
+        <root_component display_value="x-10204-hello-app">3407a4d2777c7a639140a8da277da4d3</root_component>
+        <root_component_config>{}</root_component_config>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>venkatesh</sys_created_by>
+        <sys_created_on>2020-09-22 18:08:54</sys_created_on>
+        <sys_id>7153f60e010da97c0f7e5abaf5777d9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Component</sys_name>
+        <sys_package display_value="hello-app" source="x_10204_hello_app">65f4811b2f5b50105c7eea5ef699b6db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hello-app">65f4811b2f5b50105c7eea5ef699b6db</sys_scope>
+        <sys_update_name>sys_ux_macroponent_7153f60e010da97c0f7e5abaf5777d9c</sys_update_name>
+        <sys_updated_by>venkatesh</sys_updated_by>
+        <sys_updated_on>2020-09-22 18:08:54</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>
